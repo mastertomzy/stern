@@ -293,5 +293,35 @@
   "id" : 7,
   "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs8AXLcOIqTJYuHcPgvXqhU1V5VJLjZYfv-Q&usqp=CAU"
   }
+  ],
+  "radios": [
+  {
+  "id" : 1,
+  "poster" : "https://media.glassdoor.com/sqll/146631/wbez-squarelogo.png"
+  },
+  {
+  "id" : 2,
+  "poster" : "https://4.bp.blogspot.com/-nBhQq97PrJg/WhfdvDjz5lI/AAAAAAAB48Y/ltsVqrO5lgYuBsn_MbI9o7kLdgIyFQoMwCLcBGAs/s280/wbz_logo_bb.png"
+  },
+  {
+  "id" : 3,
+  "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTP4B6GH5gVjmpCiHYHstwWzN7fe7rg9yJT0g&usqp=CAU"
+  },
+  {
+  "id" : 4,
+  "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDk4t9xdMEW6e6soVI7NdMjFuRQjbZo-j3Zg&usqp=CAU"
+  },
+  {
+  "id" : 5,
+  "poster" : "https://upload.wikimedia.org/wikipedia/en/6/69/WLTW.png"
+  },
+  {
+  "id" : 6,
+  "poster" : "https://upload.wikimedia.org/wikipedia/commons/8/8b/Nj1015.jpg"
+  },
+  {
+  "id" : 7,
+  "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPB7KF89jRsPmFHOO9BcmDvX4aTf5PkTyy4Q&usqp=CAU"
+  }
   ]
 }
