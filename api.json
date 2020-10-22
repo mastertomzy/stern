@@ -323,5 +323,57 @@
   "id" : 7,
   "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPB7KF89jRsPmFHOO9BcmDvX4aTf5PkTyy4Q&usqp=CAU"
   }
+  ],
+  "actors": [
+     {
+     "name" : "Brad Pitt",
+     "id" : 287,
+     "poster" : "\/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+     },
+     {
+     "name" : "Matt Damon",
+     "id" : 1892,
+     "poster" : "\/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg"
+     },
+     {
+     "name" : "Margot Robbie",
+     "id" : 234352,
+     "poster" : "\/mzwuoK7i418q28KI8cQIFzKcWjg.jpg"
+     },
+     {
+     "name" : "Denzel Washington",
+     "id" : 5292,
+     "poster" : "\/cEU2Vrdo83izpGmOvbVAOz5jCof.jpg"
+     },
+     {
+     "name" : "Michael Caine",
+     "id" : 3895,
+     "poster" : "\/9u3wXvlMROOF5FpC0ITasQVLJHX.jpg"
+     },
+     {
+     "name" : "Elisabeth Shue",
+     "id" : 1951,
+     "poster" : "\/wofhdwRvSLE07tcHPRyNApVzIl9.jpg"
+     },
+     {
+     "name" : "Tom Hanks",
+     "id" : 31,
+     "poster" : "\/xndWFsBlClOJFRdhSt4NBwiPq2o.jpg"
+     },
+     {
+     "name" : "Vin Diesel",
+     "id" : 12835,
+     "poster" : "\/7rwSXluNWZAluYMOEWBxkPmckES.jpg"
+     },
+     {
+     "name" : "Bruce Willis",
+     "id" : 62,
+     "poster" : "\/A1XBu3CffBpSK8HEIJM8q7Mn4lz.jpg"
+     },
+     {
+     "name" : "Sean Bean",
+     "id" : 48,
+     "poster" : "\/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+     }
   ]
 }
