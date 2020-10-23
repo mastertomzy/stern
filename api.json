@@ -3,26 +3,36 @@
     { 
       "title" : "Ava",
       "id" : 539885,
+      "class" : "mov",
+      "type" : "render",
       "poster" : "\/54yOImQgj8i85u9hxxnaIQBRUuo.jpg" 
     },
     { 
       "title" : "Archive",
-      "id" : 606234, 
+      "id" : 606234,
+      "class" : "mov",
+      "type" : "render",
       "poster" : "\/u9YEh2xVAPVTKoaMNlB5tH6pXkm.jpg" 
     },
     { 
       "title" : "Artemis Fowl", 
-      "id" : 475430, 
+      "id" : 475430,
+      "class" : "mov",
+      "type" : "render",
       "poster" : "\/o0F8xAt8YuEm5mEZviX5pEFC12y.jpg" 
     },
     { 
       "title" : "Unknown Origins",
-      "id" : 438396, 
+      "id" : 438396,
+      "class" : "mov",
+      "type" : "render",
       "poster" : "\/qGZe9qTuydxyJYQ60XDtEckzLR8.jpg" 
     },
     { 
       "title" : "One Night in Bangkok", 
-      "id" : 721452, 
+      "id" : 721452,
+      "class" : "mov",
+      "type" : "render",
       "poster" : "\/riDrpqQtZpXGeiJdlmfcwwPH7nN.jpg" 
     }
   ],
@@ -375,5 +385,19 @@
      "id" : 48,
      "poster" : "\/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
      }
+  ],
+  "static": [
+  {
+  "title" : "Money Heist",
+  "id" : 71446,
+  "class" : "ser",
+  "type" : "tender",
+  "poster" : "\/tNlkKrypFs6QSUjFVQntFISoFv5.jpg"
+  },
+  {
+  "title" : "Money Heist",
+  "id" : 71446,
+  "poster" : "\/tNlkKrypFs6QSUjFVQntFISoFv5.jpg"
+  }
   ]
 }
