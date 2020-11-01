@@ -257,6 +257,7 @@
  		"1080p": " ",
  		"720p": " ",
  		"480p": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4",
+                "script": "<script src="https://cdn.plyr.io/3.4.6/plyr.js"></script>",
  		"caption": "https://raw.githubusercontent.com/mastertomzy/stern/master/Star.Wars_.The_.Rise_.of_.Skywalker.2019.1080p.AMZN_.WEB-DL.DDP5_.1.H.264-TEPES-HI.srt"
  	}
  }
