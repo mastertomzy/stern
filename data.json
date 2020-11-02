@@ -257,7 +257,7 @@
  		"1080p": " ",
  		"720p": " ",
  		"script": "<script src='https://cdn.plyr.io/3.4.6/plyr.js'></script>",
- 		"video": "<script src='https://cdn.plyr.io/3.4.6/plyr.js'></script><video controls crossorigin playsinline class='player' id='player' poster=''><source id='src' src='video.mp4' type='mp4' size='720p'><track kind='captions' label='English' srclang='en' src='sample_video-en.vtt' default></video>",
+ 		"video": "  <link rel='stylesheet' href='https://cdn.plyr.io/3.4.6/plyr.css'><script src='https://cdn.plyr.io/3.4.6/plyr.js'></script><video controls crossorigin playsinline class='player' id='player' poster=''><source id='src' src='video.mp4' type='mp4' size='720p'><track kind='captions' label='English' srclang='en' src='sample_video-en.vtt' default></video>",
  		"480p": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4",
  		"caption": "https://raw.githubusercontent.com/mastertomzy/stern/master/Star.Wars_.The_.Rise_.of_.Skywalker.2019.1080p.AMZN_.WEB-DL.DDP5_.1.H.264-TEPES-HI.srt"
  	}
