@@ -46,7 +46,7 @@
   "045":{ "id" : "045", "title" : "Pac 12", "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWQOYy3QIsFcPoePSlbEOAixWAIk_uK1curw&usqp=CAU", "country" : "USA", "stream" : "" },
   "046":{ "id" : "046", "title" : "Stadium", "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCpI0LPCvN_tUeqFu6wj92e8IB6BS_UA95ZQ&usqp=CAU", "country" : "USA", "stream" : "" },
   "047":{ "id" : "047", "title" : "BYU TV", "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxIAwPmz-k0CSj3Ydwm0lIwWEokLR9O67tcg&usqp=CAU", "country" : "USA", "stream" : "" },
-  "048":{ "id" : "048", "title" : "Box Nation", "poster" : "", "country" : "USA", "stream" : "" },
-  "049":{ "id" : "049", "title" : "Eurosport", "poster" : "", "country" : "USA", "stream" : "" },
-  "050":{ "id" : "050", "title" : "Sky Sport", "poster" : "", "country" : "USA", "stream" : "" }
+  "048":{ "id" : "048", "title" : "Box Nation", "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyGdoIxZmCjuR8ZeMFk9rfR7j0bNT7covsQ&usqp=CAU", "country" : "USA", "stream" : "" },
+  "049":{ "id" : "049", "title" : "Eurosport", "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY73ujxVmivptrWm-7mm-x5omXm97bMs4KPw&usqp=CAU", "country" : "USA", "stream" : "" },
+  "050":{ "id" : "050", "title" : "Sky Sport", "poster" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfzdBrdhGK-SuSuFCX3OKhAeE89FcTBFFrw&usqp=CAU", "country" : "USA", "stream" : "" }
 }
